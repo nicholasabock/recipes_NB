@@ -1,3 +1,5 @@
+This one has been changed! 
+
 The best sandwich.
 
 Ingredients:
@@ -7,3 +9,11 @@ Directions:
 Ingredients:
 
 Directions:
+=======
+Best sandwich ever
+
+Ingredients
+
+Directions
+
+>>>>>>> a0f13155da1b8eadc03821e69dfbca937abdb49f
