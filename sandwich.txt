@@ -1,19 +1,13 @@
-This one has been changed! 
-
-The best sandwich.
-
-Ingredients:
-
-Directions:
-
-Ingredients:
-
-Directions:
-=======
-Best sandwich ever
+Not-so-Best sandwich ever
+>>>>>>> 1b996d9f84011a1c7422d8705650796a5356f488
 
 Ingredients
 
 Directions
 
+<<<<<<< HEAD
 >>>>>>> a0f13155da1b8eadc03821e69dfbca937abdb49f
+=======
+Eat the sandwich! Yummy!
+
+>>>>>>> 1b996d9f84011a1c7422d8705650796a5356f488
